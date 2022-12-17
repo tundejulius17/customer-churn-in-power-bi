@@ -1,1 +1,2 @@
 # customer-churn-in-power-bi
+For subscription-based businesses, reducing customer churn is a top priority. In this Power BI project, a dataset from an example telecom company called Databel will be investigated, and their churn rates analyzed. Analyzing churn doesn’t just mean knowing what the churn rate is: it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn. These questions will be answered by creating measures and calculated columns while simultaneously creating eye-catching report pages.
